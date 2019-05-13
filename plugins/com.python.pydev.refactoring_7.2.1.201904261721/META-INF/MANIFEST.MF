@@ -1,0 +1,54 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: com.python.pydev.refactoring; singleton:=true
+Built-By: fabio
+Require-Bundle: org.eclipse.ui,org.eclipse.ui.editors,org.eclipse.ui.i
+ de,org.eclipse.ui.workbench.texteditor,org.eclipse.core.runtime,org.e
+ clipse.jface.text,org.python.pydev.ast;bundle-version="[7.2.1,7.2.2)"
+ ,org.python.pydev;bundle-version="[7.2.1,7.2.2)",org.junit;bundle-ver
+ sion="4.0";resolution:=optional,org.eclipse.search,org.python.pydev.s
+ hared_ui;bundle-version="[7.2.1,7.2.2)",org.python.pydev.core;bundle-
+ version="[7.2.1,7.2.2)",org.python.pydev.parser;bundle-version="[7.2.
+ 1,7.2.2)",org.eclipse.core.resources,org.eclipse.ltk.core.refactoring
+ ,org.eclipse.ltk.ui.refactoring,org.python.pydev.refactoring;bundle-v
+ ersion="[7.2.1,7.2.2)",com.python.pydev.analysis;bundle-version="[7.2
+ .1,7.2.2)",org.eclipse.jdt.core;resolution:=optional,org.eclipse.jdt.
+ ui;resolution:=optional
+Bundle-ManifestVersion: 2
+Bundle-ActivationPolicy: lazy
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Bundle-Vendor: Brainwy Software Ltda
+Export-Package: com.python.pydev.codecompletion,com.python.pydev.refac
+ toring.actions,com.python.pydev.refactoring.hyperlink,com.python.pyde
+ v.refactoring.markoccurrences,com.python.pydev.refactoring.refactorer
+ .search,com.python.pydev.refactoring.refactorer.search.copied,com.pyt
+ hon.pydev.refactoring.search,com.python.pydev.refactoring.tdd,com.pyt
+ hon.pydev.refactoring.ui,com.python.pydev.refactoring.ui.findreplace
+Bundle-Name: Refactoring Plug-in
+Bundle-Version: 7.2.1.201904261721
+Bundle-Localization: plugin
+Bundle-ClassPath: refactoring.jar
+Bundle-Activator: com.python.pydev.refactoring.RefactoringPlugin
+Created-By: Apache Maven 3.5.3
+Build-Jdk: 1.8.0_172
+Eclipse-BundleShape: dir
+
+Name: plugin.xml
+SHA-256-Digest: +M3/PCmdUdhITyYFjeUzdDsV+t3FUQST6IOEsn/SxBY=
+
+Name: refactoring.jar
+SHA-256-Digest: Q8wSOKlURzGZeaZg3+zfGVhWTuPfkAQ3/MoH3ZrNUjY=
+
+Name: META-INF/maven/org.python.pydev/com.python.pydev.refactoring/pom
+ .xml
+SHA-256-Digest: Z9er7HvpUcQo4niPlNMmIgWsM1R3NABmZStFi8ursoE=
+
+Name: META-INF/maven/org.python.pydev/com.python.pydev.refactoring/pom
+ .properties
+SHA-256-Digest: OvGqA4WXsKKdmYLQuDKDeKmA3IZo+cO319zWBfs1p7U=
+
+Name: LICENSE.TXT
+SHA-256-Digest: J75t01G5GT6rkY9hiDNA+yh/SDVMI+VNinfwannMATI=
+
+Name: plugin.properties
+SHA-256-Digest: 1MR0PNKu3Hi88LvJnjuyD57FZQMcQ9JfK9gRY/e8txk=
+

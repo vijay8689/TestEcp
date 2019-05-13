@@ -1,0 +1,56 @@
+Signature-Version: 1.0
+SHA-256-Digest-Manifest-Main-Attributes: 3aEqeM1wLluSn3Dk/u7OYiwJpKbOP
+ 9Nf/4eH5PjgsT4=
+SHA-256-Digest-Manifest: 3ICgbFANi+TSkbQb3nKHN4ruVvrA5qyc/pyOgAF9Sj0=
+Created-By: 1.8.0_172 (Oracle Corporation)
+
+Name: plugin.xml
+SHA-256-Digest: BmL4WFEKzlH9xFqmQTTWDp7Oa5kgiBr31pUY7s9x5Ng=
+
+Name: schema/org.python.pydev.pydev_simpleassist.exsd
+SHA-256-Digest: 2H/JdLKBQJVGSp9+Pu27vywE1g4gOMEJGqY+arVF6BY=
+
+Name: schema/org.python.pydev.pydev_manager_observer.exsd
+SHA-256-Digest: RxzXvfMsIs6ZB41I7XS5NI+qIBb1vMr1Dgw4I9xEueA=
+
+Name: META-INF/maven/org.python.pydev/org.python.pydev.ast/pom.xml
+SHA-256-Digest: vvFh+oOD/vRXhXFHRrBocVNQwsnMUNdseHcxIfmd0xU=
+
+Name: schema/org.python.pydev.pydev_modules_observer.exsd
+SHA-256-Digest: C5/syA8KH/Sv5UyK7yM6bzYi73qrmu74qSO5gN1XYlY=
+
+Name: schema/org.python.pydev.pydev_pythonpath_contrib.exsd
+SHA-256-Digest: TIzP6ZV42Nbb459BpvmsLzACETJf5QD/J25IKF4TlOk=
+
+Name: schema/org.python.pydev.pydev_interpreter_new_custom_entries.exs
+ d
+SHA-256-Digest: AcEvAwJWbR3F7KCQy/43PULqh+wHifHOC77omj8S5yw=
+
+Name: schema/org.python.pydev.pydev_interpreter_observer.exsd
+SHA-256-Digest: vp/mzwimDUnzgvQoqNA6Ad0ofJCIISQ+1oR0+KDP1nU=
+
+Name: schema/org.python.pydev.pydev_builder.exsd
+SHA-256-Digest: cj9KkQhhJUVit3jdUdTpX3dAFDy9DACjRsJhIDqFHaU=
+
+Name: schema/org.python.pydev.pydev_interpreter_info_builder.exsd
+SHA-256-Digest: 78pfPdSLTdQRT0hfzUhSI8bPgtMKIXJccmjewUmgoGg=
+
+Name: LICENSE.txt
+SHA-256-Digest: kKR//0aU3zBgl9SCeCpwoQ+GrOEHBzEb90XcPTX/6Do=
+
+Name: schema/org.python.pydev.pydev_refactoring.exsd
+SHA-256-Digest: V9M+WZa+biv0llgGl1l0gl6BVucShottl+sCVEOXHog=
+
+Name: schema/org.python.pydev.pydev_python_module_resolver.exsd
+SHA-256-Digest: d8zTVSkprzJd6HxXJg+a2DeKjS/y0rVBrE9IHYPUGyc=
+
+Name: ast.jar
+SHA-256-Digest: XOdnB3pMntXKLD+ghbxb6PdlBpjz3bkqLUkLecQb+8U=
+
+Name: schema/org.python.pydev.pydev_completion.exsd
+SHA-256-Digest: 5RKgg0xl/J8Rj+VL46JoiWwOLCDTk71GRK22T4S3Gyk=
+
+Name: META-INF/maven/org.python.pydev/org.python.pydev.ast/pom.propert
+ ies
+SHA-256-Digest: DQ0VLmyEEyt2bueb3/i/eJe8izN/1igSy6JifnAH5r0=
+

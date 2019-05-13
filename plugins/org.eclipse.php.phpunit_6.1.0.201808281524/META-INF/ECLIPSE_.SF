@@ -1,0 +1,856 @@
+Signature-Version: 1.0
+SHA-256-Digest-Manifest-Main-Attributes: lF2y/r0G2xgbiD9vTvBbUiclRzWTK
+ JoJzQaxwQ+AkY8=
+SHA-256-Digest-Manifest: Ae+hn6k3yhqWKPs9ZEcnBF20N9I9hwoxJnkPn4+QVW4=
+Created-By: 1.8.0_162 (Oracle Corporation)
+
+Name: plugin.xml
+SHA-256-Digest: q2gvg2+twzJPNcQLbT9O8lhSaGFGbpuG0fWs14oTAl4=
+
+Name: org/eclipse/php/phpunit/model/elements/PHPUnitTestGroup.class
+SHA-256-Digest: fSf7XE0tTUrvOnmYbolHZm1swZ2Qf4uddXChH8AJiL8=
+
+Name: org/eclipse/php/phpunit/PHPUnitPreferenceInitializer.class
+SHA-256-Digest: ArIOCr0KClnFjBlg1EVgaNk4Sc9pR37XbCM5BlP3uV8=
+
+Name: icons/full/ovr16/error_ovr.gif
+SHA-256-Digest: rTlVsMnRbaVDi99n89jvIyJEyLarxGV0H+Mx3PADaiA=
+
+Name: icons/full/obj16/testok.png
+SHA-256-Digest: vkIpXHmbheYSY75Ak3O7iTA++dv0k+O1e09edW0xXpA=
+
+Name: icons/full/obj16/tsuite@2x.png
+SHA-256-Digest: w06ri4hPa51/Gl7nbXuxXowEUqSKKzE4KMblgrsgApU=
+
+Name: icons/full/dview16/stackframe.png
+SHA-256-Digest: mmZEqoNQAiuy0Girf0ZyyNkoOofJxzH64sab90TYEPs=
+
+Name: icons/full/ovr16/success_ovr.png
+SHA-256-Digest: G0BkeKN+BnIpateYQSe4VmXqGs6JPhBup7gvrCyj8gA=
+
+Name: META-INF/maven/org.eclipse.php/org.eclipse.php.phpunit/pom.xml
+SHA-256-Digest: WuYR/vSCvXsT61xbsFTRBWvcPRnG6eQOorGQtfW9LeI=
+
+Name: org/eclipse/php/phpunit/ui/view/DiffTrace$CopyListener.class
+SHA-256-Digest: tQIffGk00m90rKsj5Vq1eHbZBcSpZvuZI1rcK+0mMto=
+
+Name: pdt_32.png
+SHA-256-Digest: ezBu8xDvvC8Bp+WQQ3bAkb1W+x01BQ1zGOJBJHVEP2s=
+
+Name: icons/full/dtool16/new_testsuite@2x.png
+SHA-256-Digest: tAZzkMaUzi9pNdTwWoEL99iGhv/3+xq3PzEzFE0KTs8=
+
+Name: icons/full/dlcl16/select_next.png
+SHA-256-Digest: /wSZGIwtzB25lmWTowZehjbqv8lVJRC82TNDo6HoOA8=
+
+Name: icons/full/elcl16/lock@2x.png
+SHA-256-Digest: 7plucpH5kZYiFlAKza9lxAx6QQcJWzvHScvQUcTSxWw=
+
+Name: org/eclipse/php/phpunit/ui/wizards/PHPUnitWizardPage$ClassNameFi
+ eldAdapter.class
+SHA-256-Digest: kZE1W7WOuST+yu7naSHxP/z8Ksi4RAF3vX2yvYVGCgk=
+
+Name: about.ini
+SHA-256-Digest: 1hHcuTCk5A7wCyLggMFnqNlWEsS9+ylmrvGUFJBEc4w=
+
+Name: icons/full/obj16/testerr.png
+SHA-256-Digest: HWNnDl+xOc0j8pjZnOeRQfbX7PDA0ddEwyNeEWH3Bo0=
+
+Name: org/eclipse/php/phpunit/ui/launch/PHPUnitLaunchConfigurationTab$
+ 7.class
+SHA-256-Digest: D4P7PLekz6mVVFkCrktN9TICsHbOUc6UfjsOnFjh7FA=
+
+Name: org/eclipse/php/phpunit/PHPUnitMessages.properties
+SHA-256-Digest: FhQWEEVYTvI3mFG+UvsxRFDAV0xCx1D5YdG6juJ1YTM=
+
+Name: icons/full/dlcl16/cfilter.png
+SHA-256-Digest: 1TQm9hQuVARbupC/zgU6Rhnqp/xbJdCMpW9MkU/AVk8=
+
+Name: org/eclipse/php/phpunit/ui/wizards/PHPUnitFilteredTypesSelection
+ Dialog$ConsistencyRunnable.class
+SHA-256-Digest: rZOW90ZyuzKTadquY92AX/84jcOjB54rk9vSAkX8KlE=
+
+Name: org/eclipse/php/phpunit/ui/wizards/PHPUnitWizard.class
+SHA-256-Digest: j4bl58nSsuHFU7cGTb2LpedagWj1CFs031vXHjB+THc=
+
+Name: icons/full/dlcl16/relaunchf@2x.png
+SHA-256-Digest: FXwXk3r95KKVmaotTM6cZ5vHsOVlPuFn+NizZlIGmKU=
+
+Name: org/eclipse/php/phpunit/ui/wizards/templates/TestCaseClassTempla
+ te.class
+SHA-256-Digest: 2pAJ/7icuhF/cHVt3xOUclcAZFooa/vxN0IiR9hAGKc=
+
+Name: org/eclipse/php/phpunit/ui/wizards/PHPUnitMethodSelectionDialog$
+ PackageRenderer.class
+SHA-256-Digest: 5CJEQSGEWz9tSGPKIgqzAnTSb4jyQyHto2CjsmCf5w4=
+
+Name: icons/full/elcl16/th_automatic@2x.png
+SHA-256-Digest: gVBzRRnB+k5RFUnFNH/oUmmVQiH/mSdVxWCkvN7DwW4=
+
+Name: org/eclipse/php/phpunit/ui/view/PHPUnitView$ToggleOrientationAct
+ ion.class
+SHA-256-Digest: oBm+/ThHUJ//VNNGaMlaoDQBkiSHVcsfxGaGOGrYiL4=
+
+Name: icons/full/dlcl16/select_prev.png
+SHA-256-Digest: PtLhhY3MBylYNTBiU278d+kFuwjwxhvs1rJNOwrB9fs=
+
+Name: icons/full/obj16/testfail.png
+SHA-256-Digest: PX20H9pLOUD5YHPP/eHg9AFHI7vU8VwkRzb95XRXrxY=
+
+Name: org/eclipse/php/phpunit/ui/view/PHPUnitView$CollapseAllAction.cl
+ ass
+SHA-256-Digest: Lo8fUbsyrTt11XIxtfNH1terIqskknhLHfEp3OlTWWM=
+
+Name: org/eclipse/php/phpunit/ui/view/ProgressBar$1.class
+SHA-256-Digest: q/Qilfz900XtCHacPGTDOEyrMCpvMakW3kUdxAyZdTY=
+
+Name: org/eclipse/php/phpunit/ui/wizards/TestCaseWizardPage$1.class
+SHA-256-Digest: vQ5a/NtaQOB8tKBYLzXx2mVxHwAVG1z0UCBfUyq5iC8=
+
+Name: org/eclipse/php/phpunit/ui/launch/PHPUnitLaunchConfigurationTab$
+ 12.class
+SHA-256-Digest: kBBcSTa5AjF6qJ0bL9h/P5U60FG2QoxopBa3MQ9kvb0=
+
+Name: org/eclipse/php/phpunit/launch/PHPUnitLaunchUtils.class
+SHA-256-Digest: 0Wc5gXiGRuwfkW+EMLGfj8JjU35R00FBXkoVqtFJacw=
+
+Name: icons/full/elcl16/th_vertical@2x.png
+SHA-256-Digest: RLhHfn4KzdBndhh8wp7BLpTVxki4Q4I1/Mwrzgq0SpE=
+
+Name: org/eclipse/php/phpunit/model/providers/PHPUnitTestTraceTreeCont
+ entProvider.class
+SHA-256-Digest: Wh8/M3C/OyPScwAbP6N7TfHWbNi9e9RjGGEIj2YPcXc=
+
+Name: icons/full/dtool16/new_testcase.png
+SHA-256-Digest: JzpdWTqC9WZ2K7g8n08wbi1NvUfmIkm3X1dcduxtKRY=
+
+Name: org/eclipse/php/phpunit/ui/wizards/TestCaseWizardPage$2.class
+SHA-256-Digest: x9WI97OTuEGI+R7AO6DXIh+l2TaRZhW4PrlOTSPTZRg=
+
+Name: org/eclipse/php/phpunit/ui/launch/PHPUnitOption.class
+SHA-256-Digest: aV1goKBpHqYvxs/R8jkGLBqQVS4MNvIBMTV8RxCwFXg=
+
+Name: org/eclipse/php/phpunit/ui/wizards/PHPUnitFilteredTypesSelection
+ Dialog$TypeItemsFilter.class
+SHA-256-Digest: /vMteHW32dwhi6m4BraFIm5P819l6stAJcYCtSpOI20=
+
+Name: icons/full/elcl16/select_prev.png
+SHA-256-Digest: o64eXElJTNwtbT5EAWTqVKWxBp6UGK0gNVER/HU+uvI=
+
+Name: org/eclipse/php/phpunit/ui/preference/PHPUnitPreferencePage.clas
+ s
+SHA-256-Digest: qS/K4MPTuhCtLwN4sEHmRv/aOAM/zxGy4A3pqnvd5YI=
+
+Name: org/eclipse/php/phpunit/ui/view/actions/RerunAction.class
+SHA-256-Digest: jwQkaSKUeeQbixnRb5/c/6owjNyo/FvhjKrxG6auYRk=
+
+Name: org/eclipse/php/phpunit/ui/wizards/TestCaseWizardPage$ElementToT
+ estFieldAdapter.class
+SHA-256-Digest: B4mdii8LUeT1a9UV4Wz0z/tucJq5p8WadjDI3Txnbwo=
+
+Name: org/eclipse/php/phpunit/ui/view/DiffTrace.class
+SHA-256-Digest: cucMKBzpY3FWHIxnKvCJ22w6idSy8r68bhZQPadBlkU=
+
+Name: org/eclipse/php/phpunit/ui/launch/PHPUnitLaunchConfigurationTab$
+ 2.class
+SHA-256-Digest: pLkoXNBJ4LtSASIVnN+u+jB3u7zetPzRNvRx8hUJRWw=
+
+Name: org/eclipse/php/phpunit/ui/launch/PHPUnitZDLauncher.class
+SHA-256-Digest: lN3wX/H3I+QQ0d5rBEkhp8U18gzdCVvCzuaLqnr0ueM=
+
+Name: org/eclipse/php/phpunit/ui/launch/TestSelectionDialog.class
+SHA-256-Digest: cuDKprmdCZgdbMf4uNI/HciBy5qAhkrpaKta8Nkrj50=
+
+Name: org/eclipse/php/phpunit/ui/launch/PHPUnitLaunchShortcut.class
+SHA-256-Digest: s46ol2+FjVU6UbWfxTyOizrT5ZE29XJfkhoUHM4BZ84=
+
+Name: org/eclipse/php/phpunit/ui/view/PHPUnitView$RerunAction.class
+SHA-256-Digest: KuBm24cwNtpOIDYlYxB31Z5j7EN0W6UxtGKasMqOYms=
+
+Name: icons/full/dlcl16/select_next@2x.png
+SHA-256-Digest: SrOsEuCz/O6ju4ip8V8pS7+nMw5Peb944kU22CJctT4=
+
+Name: org/eclipse/php/phpunit/ui/launch/PHPUnitLaunchConfigurationTab.
+ class
+SHA-256-Digest: gc5rG/5c5Pzude05/rpX+P8FPSGQQvdNNcKWf3kfaRA=
+
+Name: icons/full/obj16/testhier.png
+SHA-256-Digest: gJJSJMCxtOy4t3J0/DtxwnVjTgfZ2kGnAOU/+M5pygc=
+
+Name: org/eclipse/php/phpunit/ui/view/PHPUnitView$5.class
+SHA-256-Digest: UMJAtYs71Zd3POKVprOVt59mBSJD5ozhK+JSSWmhoQE=
+
+Name: org/eclipse/php/phpunit/model/elements/PHPUnitTraceFrame.class
+SHA-256-Digest: sp7NaAkfsCaOAOh9F6kTVCmQFaipdnkkul4/rLgc9K4=
+
+Name: META-INF/maven/org.eclipse.php/org.eclipse.php.phpunit/pom.prope
+ rties
+SHA-256-Digest: 5rLWhxPypueEHI/9ZGjv3BvWsMTYXX7/SAx03Yz88fE=
+
+Name: org/eclipse/php/phpunit/ui/launch/PHPUnitLaunchConfigurationTab$
+ 8.class
+SHA-256-Digest: otZfKLgOnOb/MzKk8yrnb3hIpMsNrbZGRnaNrYpn24Q=
+
+Name: org/eclipse/php/phpunit/ui/launch/PHPUnitXDLaunchSettingsSection
+ .class
+SHA-256-Digest: SJgPt2hTcSAQRDtnIewZbi9Ma2Rhyw8/sRWoBWkoHwU=
+
+Name: org/eclipse/php/phpunit/ui/launch/PHPUnitLaunchConfigurationTab$
+ 1.class
+SHA-256-Digest: XLpaLHHlUhLZcdfSxs5+kIdde6hb5eqb3wE9B1AvZvU=
+
+Name: icons/full/dview16/stackframe@2x.png
+SHA-256-Digest: bXaWWxHRVlx4A2KgI6LIKqxvyugeiQKt7r50stPbEJk=
+
+Name: icons/full/obj16/faillist.png
+SHA-256-Digest: h1NKRzdT742L/yD94qJ1yEDP+4d9CIshMBkbb3lKKTY=
+
+Name: icons/full/obj16/failures.png
+SHA-256-Digest: kT2zriymofPk07D04GOqqrW94846dTpH3fRtQDFPORU=
+
+Name: org/eclipse/php/phpunit/ui/wizards/templates/TestCaseClassTempla
+ te$Method.class
+SHA-256-Digest: CNgdlhFYyPq/O3TyL2JO6TdA6NoIAow8u5V5K4Klxn0=
+
+Name: org/eclipse/php/phpunit/ui/wizards/PHPUnitFilteredTypesSelection
+ Dialog$TypeSelectionHistory.class
+SHA-256-Digest: +1v7SSR6FdRlz95/Rqr+rT9hvhys2fV/dgjgGem0u5g=
+
+Name: icons/full/elcl16/cfilter.png
+SHA-256-Digest: iTmRUwi07LGQ7wuafleBFLz0li9FA09XzgnqjQJg7mU=
+
+Name: icons/full/elcl16/th_vertical.png
+SHA-256-Digest: S3NXJ5VhW0pwPiBbS3Mj9idElzsBrh2r+n6VMxUaT/I=
+
+Name: icons/full/ovr16/success_ovr@2x.png
+SHA-256-Digest: YZGRsPLG/qYl3tazH1y60dPGPaGxJB2aZsvh2vzJRkI=
+
+Name: org/eclipse/php/phpunit/model/providers/DiffLine.class
+SHA-256-Digest: Sigj+6LrUSCS8BrmhSAZkYY7LYwkLL7yCkLioU1WQCQ=
+
+Name: icons/full/dlcl16/expandall.png
+SHA-256-Digest: XKUb8UIVlLICFBpyaO7tFxHORRn21kxdZuLfNp7DB58=
+
+Name: icons/full/dlcl16/th_vertical.png
+SHA-256-Digest: 8IJ9F9zgX9sjdXW/oqjP0epEjO/h7VtNIqPYgQ+KLNc=
+
+Name: icons/full/dlcl16/th_automatic@2x.png
+SHA-256-Digest: w5n4IjX6b6Nxxd3cQFXNs5N3M2rD1as1PaavWlcIJcg=
+
+Name: icons/full/obj16/testrun.png
+SHA-256-Digest: LGHBOKbXmEZL3NTuQcQ3kQEt8IZ0vXlcWpE66wvMo/4=
+
+Name: org/eclipse/php/phpunit/ui/view/PHPUnitView$4.class
+SHA-256-Digest: wOCymeEm1co32QGN0wJxMpnd1YiTwQh1UZeZd9AOLgY=
+
+Name: icons/full/etool16/new_testsuite@2x.png
+SHA-256-Digest: toR3TKQYrloYOsood1g3nKIrpAkeO3DesRyfdTeZUd4=
+
+Name: org/eclipse/php/phpunit/ui/view/ProgressBar$2.class
+SHA-256-Digest: 5z+gEFrEHvkbsc6/W6Krj1wVR5JOz1pK9M2ZJfWyWew=
+
+Name: org/eclipse/php/phpunit/ui/ElementSelectionDialog$PackageRendere
+ r.class
+SHA-256-Digest: 5KNY0TfavJtUvLpuzzbCCDz3jylU8XcTpW27a1S0Kj4=
+
+Name: org/eclipse/php/phpunit/model/elements/PHPUnitTestException.clas
+ s
+SHA-256-Digest: dEIFko3fWDq7wDdSaAqtmdXskv+9efg9hDuc4GjiMiY=
+
+Name: org/eclipse/php/phpunit/ui/launch/PHPUnitZDLauncher$CrashDetecto
+ r.class
+SHA-256-Digest: QzFIqewF4pdmd/kG6ZQVEi1k6cHwzAxgdfBZyUhysYA=
+
+Name: org/eclipse/php/phpunit/model/elements/PHPUnitTestGroup$StatusCo
+ unt.class
+SHA-256-Digest: v4oFkYbI2oFY3BeyNaKEiH1oCPBXkK/cap/pgY4OPRw=
+
+Name: icons/full/ovr16/error_ovr.png
+SHA-256-Digest: o9hZneCQqOWYOH2C3yLbp7WH/OS6XtOJzyHHLnD/WwA=
+
+Name: org/eclipse/php/phpunit/ui/view/PHPUnitView$RerunLastAction.clas
+ s
+SHA-256-Digest: VT8DXsz8l1rN2CLWOLUR5t5Ja6sW3Mm5rF0dCcT3PbY=
+
+Name: icons/full/dtool16/new_testsuite.png
+SHA-256-Digest: +5YMR+BEjes9Z8Y9tzzD6bURsNEzoV33YsN6D8Qhrh4=
+
+Name: icons/full/obj16/faillist@2x.png
+SHA-256-Digest: 0fY2dFMvthBy9Qt0mhkSlQu6kknlAGDUJqf1umOD2h8=
+
+Name: org/eclipse/php/phpunit/ui/launch/PHPUnitLaunchConfigurationTab$
+ 9.class
+SHA-256-Digest: BKvP0yjOGQogcqYNwkgsvIxCO6ztXtszI1p3YJ8g+jw=
+
+Name: org/eclipse/php/phpunit/ui/ElementSelectionDialog.class
+SHA-256-Digest: c4+WgncUi4RUBXpYDZL+nF97eK4Q6pH6hmEwr81jxTw=
+
+Name: icons/full/obj16/tsuitefail.png
+SHA-256-Digest: iZp2P/z92JEUI0pN6WpVOCOYms/jGJI1N0bu5L2ctwE=
+
+Name: org/eclipse/php/phpunit/PHPUnitMessages.class
+SHA-256-Digest: pfZVPTY+QWRUhSY1OAF/ssRBdX20pIrW9vdzT0fmlq4=
+
+Name: org/eclipse/php/phpunit/model/providers/PHPUnitTestDiffTreeConte
+ ntProvider.class
+SHA-256-Digest: DA7DgZSqUjpvudoflzegozocMYh09Cm3EKxZLdNliOw=
+
+Name: org/eclipse/php/phpunit/debug/PHPUnitDebugHandler.class
+SHA-256-Digest: 5roYF0D7+4/LuTJtseHPqkSJK/LxypjLYVvDCBiHWwo=
+
+Name: icons/full/obj16/testok@2x.png
+SHA-256-Digest: nQGjZ5qrojylBVQqOwyqINJDNngKz10iHMOSH+qc22g=
+
+Name: org/eclipse/php/phpunit/ui/view/PHPUnitView$FailuresOnlyFilterAc
+ tion.class
+SHA-256-Digest: lDzcJtMlUn615dyz/O/Cr3QGIwooe9OU/p+eJ96Z5IQ=
+
+Name: org/eclipse/php/phpunit/model/connection/PHPUnitConnectionListen
+ er.class
+SHA-256-Digest: ycCPHCk/CNal1wsqol1DUf/BDmD9VDStqky2uRiTW58=
+
+Name: resources/printer/PHPUnitLogger.php
+SHA-256-Digest: 37MdgPc4fYXPbqTRDwaY4II4BPZwEoxPo4j8z0n8Bbo=
+
+Name: org/eclipse/php/phpunit/ui/view/PHPUnitView$2.class
+SHA-256-Digest: CCkaotBQNv/u6qf84/VknviSoXOLgSAf8D0aSa7OBBM=
+
+Name: icons/full/dlcl16/th_horizontal.png
+SHA-256-Digest: nvv6mvPkSBafEZ/O1PeaKI/LhVbefkrXIGvsu4Uv+B4=
+
+Name: org/eclipse/php/phpunit/ui/wizards/PHPUnitFilteredTypesSelection
+ Dialog$TypeItemDetailsLabelProvider.class
+SHA-256-Digest: WcOy9S/QJfBwgHoP0WiuhtM2n+2uMLZH2lMe9hKmyNE=
+
+Name: org/eclipse/php/phpunit/ui/view/commands/ShowExecutionTimeHandle
+ r.class
+SHA-256-Digest: p+m0pNZHq8RtZNgVVsF0nTGRcK2QHIhM9sVATncT9tI=
+
+Name: org/eclipse/php/phpunit/ui/wizards/TestSuiteWizardPage$PHPTypeLi
+ stLabelProvider.class
+SHA-256-Digest: aehVryb4cDSjh4S4MIluo+jxImYI0rSLPBpWtbQUMMM=
+
+Name: icons/full/elcl16/relaunchf@2x.png
+SHA-256-Digest: vzpJ6pVWqpGmeIYWQK+lVFc5TuUYwNY6CC+42NCjcXk=
+
+Name: org/eclipse/php/phpunit/model/elements/PHPUnitElement.class
+SHA-256-Digest: l7STC4s3EwRMXDGhvv95xiPpKdvdaxj3DHcXuEgqxpo=
+
+Name: org/eclipse/php/phpunit/ui/wizards/TestCaseWizardPage$1$1.class
+SHA-256-Digest: B/KNunkS/NT4nplL4/1jKgJNfFkLRNmgmagM2Jh4y2I=
+
+Name: org/eclipse/php/phpunit/ui/view/TestViewer$TestSelectionListener
+ .class
+SHA-256-Digest: PPMw1WlbrRrznQen3Ppqcx7tn+9InSCIgxE7XYNAyFY=
+
+Name: org/eclipse/php/phpunit/model/providers/PHPUnitElementTreeConten
+ tProvider.class
+SHA-256-Digest: rElglvg8+aW5rRHidMqy75ST+d8ltfQDvKJZPynSM3Y=
+
+Name: org/eclipse/php/phpunit/ui/view/actions/ShowNextFailureAction.cl
+ ass
+SHA-256-Digest: JojrVtiK0xV0MZ55SvaInT3dn/63N2/3YXNtbE921VE=
+
+Name: org/eclipse/php/phpunit/ui/wizards/PHPUnitFilteredTypesSelection
+ Dialog$TypeSearchRequestor.class
+SHA-256-Digest: TgX+qhUtIs4nlLtKVoyF2lbz4MBLeFtqn+YDByUSpSg=
+
+Name: icons/full/elcl16/expandall.png
+SHA-256-Digest: e3r4cn5a20SxwvBLIUVEOrcxbbZDlKxBLXpJp0aspGE=
+
+Name: org/eclipse/php/phpunit/ui/view/ProgressBar$3.class
+SHA-256-Digest: aKVKH4TbpzTMItLEGbyCHr/xTbKJTUzHY37VTsrGgFA=
+
+Name: icons/full/eview16/stackframe.png
+SHA-256-Digest: ZFURwYRjqz/dyWVHp+5DdZvrZcqQjB8jVcU8r0ZQ+GQ=
+
+Name: org/eclipse/php/phpunit/ui/wizards/templates/TestSuiteTemplate.c
+ lass
+SHA-256-Digest: EUJgobnKnnEnXplp0TLPfnjbb/EXwKUKFMB1zhzXllo=
+
+Name: icons/full/obj16/testfail@2x.png
+SHA-256-Digest: FfDYTWK40nViAZXLWG7Oa8XEt9GluWCMU88imvCybX0=
+
+Name: org/eclipse/php/phpunit/ui/view/TestLabelProvider.class
+SHA-256-Digest: fKmxf/8zi2T5vUoG+p1a2wrrxVMRTDhBZwtpwHSskW4=
+
+Name: org/eclipse/php/phpunit/ui/wizards/PHPUnitFilteredTypesSelection
+ Dialog.class
+SHA-256-Digest: /qqFhMgtNDwWIlIHj+Imm1lRYPHX4fC7LpBQ8Amw1zQ=
+
+Name: org/eclipse/php/phpunit/ui/view/PHPUnitView$1.class
+SHA-256-Digest: LrOAqsFMrXS95bqq29UCoHThDfLY5+Yuz38wDHHYPPA=
+
+Name: org/eclipse/php/phpunit/model/providers/PHP5ElementContentProvid
+ er.class
+SHA-256-Digest: uyY6HCYeeTyIsGHqRW3IlJxZDlrmjv938Xk6i4prj5I=
+
+Name: org/eclipse/php/phpunit/model/elements/PHPUnitTestWarning.class
+SHA-256-Digest: j0MNNsb74qsHtidiK6ZJ35cTWH94RVawxi+6MysMf7E=
+
+Name: org/eclipse/php/phpunit/ui/view/DiffLabelProvider.class
+SHA-256-Digest: hoL/3oJmaWFl+vfOerwCAlQN7v8lIWiVEb1ipjcaox4=
+
+Name: icons/full/wizban/newtest_wiz@2x.png
+SHA-256-Digest: NTP1FujdQyU58f+DMTDL3eshYN/329FN/zrrKpT/UxA=
+
+Name: org/eclipse/php/phpunit/ui/wizards/PHPUnitFilteredTypesSelection
+ Dialog$TypeItemLabelProvider.class
+SHA-256-Digest: agCZQ38PDouI2jYgM9tRvoQZddh4C0YyHXpMWP9M5/M=
+
+Name: org/eclipse/php/phpunit/ui/launch/PHPUnitLaunchConfigurationGrou
+ p.class
+SHA-256-Digest: y3ljuEPTr+8vA9JJvYLUUjzTgJFjSfothrmQJUj9ouQ=
+
+Name: org/eclipse/php/phpunit/ui/launch/AnyResourceTreeSelectionDialog
+ .class
+SHA-256-Digest: Z2Yc7exrtwXbExzr/+jqVxLrmwsUdhu60goT1x0tP2o=
+
+Name: org/eclipse/php/phpunit/ui/wizards/PHPUnitWizardPage$ContainerFi
+ eldAdapter.class
+SHA-256-Digest: MOWcZqr+HTOf/nu6anfLFZkQj2TeZ1ffaIfotVMWrVQ=
+
+Name: org/eclipse/php/phpunit/PHPUnitPlugin.class
+SHA-256-Digest: k+MW/WS2uMrFuqV8o51f4HYDwfHN/fFWSdllWLJr8Ok=
+
+Name: icons/full/elcl16/relaunch@2x.png
+SHA-256-Digest: /7Egt+mit5CT3KUjmSMyIq/syxQPKwnRjbnqRVspD0U=
+
+Name: icons/full/obj16/testhier@2x.png
+SHA-256-Digest: WDNjkAnscTZ9qJahttRa42PidzyTThXNRMK9h4qgGkI=
+
+Name: org/eclipse/php/phpunit/model/connection/MessageEventType.class
+SHA-256-Digest: KnB3Su49EW5mabMflL+KhNPt8DebD0Lii5SYYSrnWSQ=
+
+Name: org/eclipse/php/phpunit/ui/view/PHPUnitView.class
+SHA-256-Digest: vpdtwwrkHZPigvUSCc9yWgIUiXPt+rB7XtAqnu1nScU=
+
+Name: org/eclipse/php/phpunit/ui/view/TestViewer$FailuresOnlyFilter.cl
+ ass
+SHA-256-Digest: PLnvwQOcWprehecxdSvZ8NKKYyJqwAZKcT5weIkgF2o=
+
+Name: org/eclipse/php/phpunit/ui/view/FailureTrace$TestOpenListener.cl
+ ass
+SHA-256-Digest: sFdEz+gcbnpROA0o3VByF2r0SlmwB92+T+BhA02MI9A=
+
+Name: icons/full/obj16/test.png
+SHA-256-Digest: MCBt/9Va2liyyHMQYLhHCPa0TtQuQIIXGYDCLdoHLls=
+
+Name: org/eclipse/php/phpunit/ui/launch/PHPUnitLaunchListener.class
+SHA-256-Digest: HX7iR5uHctSV7t5gRs5Ge5tL9PQu0TEYFJBuuS2iSzc=
+
+Name: icons/full/elcl16/lock.png
+SHA-256-Digest: yCBC2wnTUKHLInaz+8M9MwhK732vGG+WbviW4gdDGbw=
+
+Name: org/eclipse/php/phpunit/ui/wizards/TestSuiteWizard.class
+SHA-256-Digest: QaAUqhBX1Y9wQkRqbzzPKDvBlcixtXCxXhTSKnZdXzk=
+
+Name: org/eclipse/php/phpunit/ui/launch/PHPUnitLaunchConfigurationTab$
+ 10.class
+SHA-256-Digest: IIM+/Q41Gn954vwvUVLogSqMFoSIhNwFMCdZ/zK4ZKM=
+
+Name: icons/full/obj16/test@2x.png
+SHA-256-Digest: 8+JM/0BJYwd07So3z92xRVyznLwDrs+3FU6V3ca8uL8=
+
+Name: org/eclipse/php/phpunit/model/connection/MessageTest.class
+SHA-256-Digest: gJcZqbz5WmvbLBs0Zkb/GAWn/Va5mYLpXCMRyd0+xdc=
+
+Name: org/eclipse/php/phpunit/ui/wizards/PHPUnitFilteredTypesSelection
+ Dialog$TypeItemsComparator.class
+SHA-256-Digest: PG20G0KgfsVhlW8x/s9CvvYRJtX3mTeGpPMhRywvfH4=
+
+Name: icons/full/dlcl16/relaunch@2x.png
+SHA-256-Digest: i+LpdQ4ujYYWx3VAY1PfqlHuMaQCVq/dlAU0M2O8GR8=
+
+Name: org/eclipse/php/phpunit/ui/launch/PHPUnitXDLauncher.class
+SHA-256-Digest: 0UqRcINpQfEcXXunEjXzc64/0EAgQMdpfxxhnBXA0nM=
+
+Name: org/eclipse/php/phpunit/model/connection/MessageException.class
+SHA-256-Digest: s/YM2SUB1xw0oep49+/4FYu+GRIDk++GS5snCm0s2/4=
+
+Name: org/eclipse/php/phpunit/ui/view/CounterPanel$1.class
+SHA-256-Digest: wiGA27epFBH6NdCra3Khyxm3L6Kfaa9EaBiWTdLWUmU=
+
+Name: org/eclipse/php/phpunit/ui/view/actions/OpenTestAction.class
+SHA-256-Digest: 2wI5DjwuxHNP/XfM5QfSYn+UosREBg/9iWNEsKxM0ow=
+
+Name: org/eclipse/php/phpunit/model/elements/PHPUnitTestCase.class
+SHA-256-Digest: WoeE37BOdJq0Pn8dFw2+0LCj7vtPBPJQKYD41uJuOsc=
+
+Name: icons/full/obj16/tsuiteerror@2x.png
+SHA-256-Digest: WReFubBPcRwDbaP0Rr3dohK0IscqTcMZttSBCmGPnT0=
+
+Name: icons/full/obj16/stkfrm_obj@2x.png
+SHA-256-Digest: T2UB1Nc9+aV0zbxIx7GrAPkc1p6EC3V74CDdQfrqbO0=
+
+Name: icons/full/elcl16/th_horizontal@2x.png
+SHA-256-Digest: An8C+ovmNWJzftD8I0+V4KRQgleIo5LRwyQC2N5lhD4=
+
+Name: org/eclipse/php/phpunit/ui/wizards/TestSuiteWizardPage$1.class
+SHA-256-Digest: J7TvV3I6PrkJg5QUdXQfeUGX+4exjd3ysHbv/LC/nlA=
+
+Name: org/eclipse/php/phpunit/model/connection/MessageFrame.class
+SHA-256-Digest: CC+IRpQ8PLA3WVBPgh3zoSqs7sZgoJEMZqJaBpFK2HQ=
+
+Name: resources/templates/ZendPHPUnitSuite.tpl.php
+SHA-256-Digest: hHnKmZfsNi/mbiHgHIitYI9GtB55LvgOsffCHP0JLYs=
+
+Name: org/eclipse/php/phpunit/launch/PHPUnitLaunchException.class
+SHA-256-Digest: i2sxKojbeflgZFUcb1NnF4m8FZ21O9I2wYeZF1sVfhY=
+
+Name: icons/full/elcl16/select_next@2x.png
+SHA-256-Digest: 1onv0jGGIcYv7gv1qUTa4uV7XFYN3DqOs4hAHFHebgg=
+
+Name: org/eclipse/php/phpunit/ui/wizards/PHPUnitWizardPage$SuperClassF
+ ieldAdapter.class
+SHA-256-Digest: SbUDBTxLD+ja2CU600bUBiks/P6v4eG0URcsUQlr5u8=
+
+Name: org/eclipse/php/phpunit/ui/view/PHPUnitView$3.class
+SHA-256-Digest: GE35gkIzXzpWyGirEEwOEMqGlrVB6lFQcgLGt+C0D6I=
+
+Name: icons/full/obj16/tsuiterun@2x.png
+SHA-256-Digest: oEJzTAyzJcrC5ei0mJGw3XglaLRll2jNgGLKcTXZ+Pw=
+
+Name: org/eclipse/php/phpunit/ui/view/FailureTrace.class
+SHA-256-Digest: PKKYe9yw6NYsJzb3Ls578Q9cnq5jTuErVkzS1okoikY=
+
+Name: icons/full/obj16/tsuiteerror.png
+SHA-256-Digest: Jicjp3LtVZWzzKS3DH8ltPJEvGmbbP02u6fYAOKDmvg=
+
+Name: icons/full/eview16/stackframe@2x.png
+SHA-256-Digest: 8v3yVgmG99gNyYGPbZZ6wbzCzG31M2ie82E7uP/h+ek=
+
+Name: icons/full/ovr16/error_ovr@2x.png
+SHA-256-Digest: xCPY72x3Fga8yeRY5yP2dLtCUhrjOzZR9s9EPE0QBB8=
+
+Name: org/eclipse/php/phpunit/debug/PHPUnitDebugParametersInitializer.
+ class
+SHA-256-Digest: 29v/1BN65PHb7vMlSvZAsVeyKC/ZGj8ZM2jWMvT0twA=
+
+Name: org/eclipse/php/phpunit/ui/view/actions/ShowPreviousFailureActio
+ n.class
+SHA-256-Digest: om8X8N09UMHO4DOMQAha+IOKnLKodDSuOrGFr2cxD+Q=
+
+Name: icons/full/elcl16/expandall@2x.png
+SHA-256-Digest: GRt1VSacbI4sl2bvnujeQOGLI90yIm2p0edByUosA/M=
+
+Name: icons/full/elcl16/relaunch.png
+SHA-256-Digest: ELts+LsBXhpivRiqRecpTbO3XsdpvhWFAQXDCAPVf4I=
+
+Name: org/eclipse/php/phpunit/ui/view/ProgressBar.class
+SHA-256-Digest: rN+TBtagcDM13d91dy6ZCDH10/P0aCsLidyiG6+C21Y=
+
+Name: icons/full/obj16/testerr@2x.png
+SHA-256-Digest: P4aYwU7xlcq0gpO2vDbWsrsq2FQLMl9b/lCzX5HUTVw=
+
+Name: org/eclipse/php/phpunit/ui/launch/PHPUnitOptionsList.class
+SHA-256-Digest: K0NtlV/1afVdiwinB1Yg+cN9F9QlavWfINffuhJLGDw=
+
+Name: org/eclipse/php/phpunit/model/PHPUnitValidator.class
+SHA-256-Digest: PmyG/bOrP6ZFB+8woRF2wmHy8VGX0NCw31Swk23TF2w=
+
+Name: org/eclipse/php/phpunit/model/elements/PHPUnitElementManager.cla
+ ss
+SHA-256-Digest: iYoHizFv7HZn4VQYk6ddFYmZB4kHyYd4ZKZHAzhvppM=
+
+Name: org/eclipse/php/phpunit/ui/launch/PHPUnitLaunchConfigurationTab$
+ 11.class
+SHA-256-Digest: TGfkBcqxClFd6zfbKVXgE0n3aa3Ys4xaV88Xlm6D4fY=
+
+Name: org/eclipse/php/phpunit/ui/launch/PHPUnitLaunchConfigurationDele
+ gate.class
+SHA-256-Digest: RZwItTeapUnZzUllI42vNoQWv5RZH3iOblrxoP+Omfk=
+
+Name: icons/full/etool16/new_testcase.png
+SHA-256-Digest: gvHqW2OzlGcZ3GFihZ+HsV8473boAlPJGYZJZYHx1y0=
+
+Name: org/eclipse/php/phpunit/ui/view/actions/OpenEditorAction.class
+SHA-256-Digest: lFKxbdW/OWrO4FfSTvIMNjN9qlYvBBkUp5uSuk45svI=
+
+Name: icons/full/dlcl16/relaunchf.png
+SHA-256-Digest: RoWCTxCY7fVi2sC8e7dly5keZcrNxfQxc6UZG6FnRgk=
+
+Name: icons/full/elcl16/relaunchf.png
+SHA-256-Digest: dipUQ1mPBFNRLCuz7tCB8xxAyt4qihyji13X+x/91mY=
+
+Name: org/eclipse/php/phpunit/model/connection/MessageElement.class
+SHA-256-Digest: WMMeLd5XojaZUNcyix//oYbvxCUC7L1Y/0q/XtxGqs4=
+
+Name: icons/full/obj16/cov_statistic_co.gif
+SHA-256-Digest: BDG0onwFdHiiATntmnPKC7LlctILNIexbvSOKZQeUSE=
+
+Name: org/eclipse/php/phpunit/ui/wizards/TestCaseWizardPage$3.class
+SHA-256-Digest: ysCYizIbSSJqUKpktyNmtlIobCl2wKC0ZAWbEh/v/vo=
+
+Name: org/eclipse/php/phpunit/ui/wizards/TestSuiteWizardPage$2.class
+SHA-256-Digest: QmHb7vuAmJTuPB+DU0bpVFZ+LB3QvQbT2PJkNvZFz6M=
+
+Name: org/eclipse/php/phpunit/PHPUnitPreferenceKeys.class
+SHA-256-Digest: KhOKfUZayAlF5bGOCWAKwEm9Wetq8uWcNuQgeXzsQVo=
+
+Name: icons/full/main.png
+SHA-256-Digest: VijVnYcOIt02bEkMDZDUNPJeBOBkTv/Navw2ciEiKxw=
+
+Name: icons/full/dlcl16/select_prev@2x.png
+SHA-256-Digest: QoFgeiqZB9cL3t31lbHCzqFaIYrcD8F+2OuqezR6p+Q=
+
+Name: org/eclipse/php/phpunit/ui/launch/PHPUnitTestElementFinder.class
+SHA-256-Digest: 8eDs5aBWYIZscRo9UBN6jgFAWa6YNb83OYv2CMLtG6k=
+
+Name: org/eclipse/php/phpunit/ui/wizards/templates/TestCaseFunctionTem
+ plate.class
+SHA-256-Digest: 2zKovZgGRk+SyULeq1dPNQIG1ufKpJxx1Gg8BO++2W8=
+
+Name: about.properties
+SHA-256-Digest: CH2zvhdd8nwNokCydJ3lR14MxDl9P1GtcEEsSKM8UlY=
+
+Name: org/eclipse/php/phpunit/ui/PHPUnitCodeCoverageFilter.class
+SHA-256-Digest: Nv7xeTMCnblKxvL8tpxOQiOa94XS0Z39C5uzNfNjSFw=
+
+Name: org/eclipse/php/phpunit/ui/launch/PHPUnitBasicLauncher.class
+SHA-256-Digest: +wGIn+zg3ysM2WV+9E2J2xxKZnIK/EqKDQHyLXyG138=
+
+Name: org/eclipse/php/phpunit/ui/wizards/PHPUnitMethodSelectionDialog.
+ class
+SHA-256-Digest: 9Yv+B+xxSazGuBvcns6n36U4oKJRfuB4jxY1H8Uwaxo=
+
+Name: org/eclipse/php/phpunit/ui/view/PHPUnitView$RerunLastAction$1.cl
+ ass
+SHA-256-Digest: bRjdYiZ+PDa76Eo9JJbcSYUqzcuxXS+s86aVcnseWaU=
+
+Name: org/eclipse/php/phpunit/ui/view/actions/ScrollLockAction.class
+SHA-256-Digest: eQ+OWSXkFf00NORRxARD1qm2TNWe/K7sqMU49q4Lq2c=
+
+Name: icons/full/elcl16/select_prev@2x.png
+SHA-256-Digest: HOIaOYlYLrkhG+yK36f4RbdbATL2ga05eb/PgD0u5Q8=
+
+Name: icons/full/obj16/stkfrm_obj.png
+SHA-256-Digest: fbsrUofig+FAro/IGW9yBx9XUO5b3KjKXxedhmI3aVI=
+
+Name: icons/full/obj16/failures@2x.png
+SHA-256-Digest: rkdKLLdOIwCz0VbzEsMfO7ASm1WYOmXN2qqOkbr+aCo=
+
+Name: icons/full/dlcl16/lock.png
+SHA-256-Digest: 2XmWJsTzl+MmfeAYMyEH0HMSEmN0uK0hUf4Drl5cjv4=
+
+Name: icons/full/dlcl16/th_vertical@2x.png
+SHA-256-Digest: sIcrI93C0Qfit5Wy0Mo0quUank9fQuXbh4PbxiMDgAE=
+
+Name: org/eclipse/php/phpunit/ui/wizards/TestCaseWizard.class
+SHA-256-Digest: pdWGVLbD43V1InNk8myfMl2kZ73wsq09oGScSms+Vv0=
+
+Name: icons/full/etool16/new_testsuite.png
+SHA-256-Digest: lY6MiLqNtwUS+deybwRIg/w8BQ0Jgf1LLpX/GpUyDmE=
+
+Name: plugin.properties
+SHA-256-Digest: Fbw3ZvIHsM04BW1tpwCxrQ0qE4O0fS94lv43cqYuJwI=
+
+Name: icons/full/dlcl16/th_horizontal@2x.png
+SHA-256-Digest: 5h2UR4gvYn5UbrTQ1SAhzBWIuiIn2fXcvvE50ddoMGA=
+
+Name: org/eclipse/php/phpunit/model/elements/PHPUnitTest.class
+SHA-256-Digest: wFpcswYjTDacYllnQpdlk+X6oxKnVUc9sImvgZXcKqs=
+
+Name: org/eclipse/php/phpunit/ui/wizards/PHPUnitWizardPage.class
+SHA-256-Digest: FeQeJ0GcaOYDwSqr0LWzCo4Ct+AJnGAzgnTm1T3lues=
+
+Name: org/eclipse/php/phpunit/ui/wizards/TestSuiteWizardPage$3.class
+SHA-256-Digest: eWZRHkvI22piphIG11CYpWySLECDfr0Vb8YEBvNUEkU=
+
+Name: icons/full/elcl16/th_horizontal.png
+SHA-256-Digest: LYQ7M+PXZ0EBhZaKxslYxJGWtqquzNuVlZGRdVTDfac=
+
+Name: icons/full/wizban/newtest_wiz.png
+SHA-256-Digest: NGNzORiSSN0iB9MxFOhvzgnNO6+y/KJohD/6qYtL5rE=
+
+Name: icons/full/dlcl16/lock@2x.png
+SHA-256-Digest: 4QQDu4X5vYj9ojYQyC8yTHwSCtT0KlusHzV6G3rPbjI=
+
+Name: org/eclipse/php/phpunit/model/PHPUnitSearchEngine.class
+SHA-256-Digest: 2ue0pMKOqpAEa8aTJuZ9Uke1v9oyCwUm9UDI30W3AYM=
+
+Name: icons/full/elcl16/th_automatic.png
+SHA-256-Digest: AQTqhhWyp0R062YuEt9Nq/vsHrsV9NcmHSH+/1j5iiU=
+
+Name: resources/templates/ZendPHPUnitFunctionTest.tpl.php
+SHA-256-Digest: MjFHZTgJnC/gANLgTNIkzzRbDxlQcT2TLNoC8uLeNBc=
+
+Name: org/eclipse/php/phpunit/ui/view/TestViewer$1.class
+SHA-256-Digest: 2lKCvMes898DNTNV89/GUi57o4u3XruV6SFbe08ite8=
+
+Name: icons/full/obj16/testrun@2x.png
+SHA-256-Digest: S9KlekTJUW2vSp9nWbrpPC/8RyDfmhA5Z0Z77Wc84Rs=
+
+Name: icons/full/obj16/tsuiterun.png
+SHA-256-Digest: qxBFqq46RecAbgnYXINhgNenalfrr+Fizeb7VhxP3F8=
+
+Name: org/eclipse/php/phpunit/ui/launch/PHPUnitLaunchConfigurationTab$
+ 3.class
+SHA-256-Digest: pk2W1nEWT+tSwdk4KUo+d1KUsN7PxJ8d02hWp8XtPwI=
+
+Name: icons/full/ovr16/failed_ovr@2x.png
+SHA-256-Digest: 1XMsQNvsKcoKx7ktzC0zsiSPC0fA/seXyvbko4Ixo4o=
+
+Name: org/eclipse/php/phpunit/ui/wizards/templates/TestCaseTemplate.cl
+ ass
+SHA-256-Digest: TnwfA+Q4CoSC8oD4+psu9f0ZvLEMdVqx7c9XPBK2CLk=
+
+Name: icons/full/obj16/tsuiteok@2x.png
+SHA-256-Digest: pnrLVnIpn0ye/fI+vYkM/3x75LL75j0JH30t2hHgr7Q=
+
+Name: org/eclipse/php/phpunit/ui/launch/PHPUnitPropertyTester.class
+SHA-256-Digest: yeHnLsnsps91fQopLJ1J6Sj129RYb2erZ4IYfTGwI9Q=
+
+Name: icons/full/wizban/newsuite_wiz@2x.png
+SHA-256-Digest: saVZQMm8KaElK54iLL7h2aJQ4oPwOvFVNf4cPcM0Cew=
+
+Name: org/eclipse/php/phpunit/ui/launch/PHPUnitLaunchConfigurationTab$
+ PHPUnitTreeLabelProvider.class
+SHA-256-Digest: 5QUv/lRwd7veTzFQ7/YKpvAqdM8eHN4N+SgZB8pH5zU=
+
+Name: org/eclipse/php/phpunit/ui/wizards/TestSuiteWizardPage.class
+SHA-256-Digest: TTHutWBT8k0i/ZxzidsqP6NPeU/Sf0BJZAcVmE53mds=
+
+Name: icons/full/dlcl16/th_automatic.png
+SHA-256-Digest: FsiL2iHyOPd4eskugswaeKrV4UdeaUWtmJ5MOx19/5M=
+
+Name: org/eclipse/php/phpunit/ui/launch/PHPUnitLaunchConfigurationTab$
+ 6.class
+SHA-256-Digest: ErLpy9/ncMW2BpOrW7Lf3yQCj0//rcmj2Q8bbFlJ/lM=
+
+Name: icons/full/obj16/tcaserun@2x.png
+SHA-256-Digest: nygudpUfAu4KXtSdI2FjZGz+lQhufCUyMwRSVKeRerw=
+
+Name: org/eclipse/php/phpunit/ui/wizards/PHPUnitWizard$1.class
+SHA-256-Digest: 5EuB8Q9XwcXbveWJA6QKRhrfDCfA/wblFudDKvYy+Hs=
+
+Name: icons/full/obj16/tsuiteok.png
+SHA-256-Digest: wFtMBq0uuJm+nEhOQNiCY9kIKwbkDWYBhx00stTlcUk=
+
+Name: org/eclipse/php/phpunit/ui/launch/PHPUnitLaunchConfigurationTab$
+ 5.class
+SHA-256-Digest: T54FOKePbeWTt06dvhId2HrgIvYAjxDWJDZKsuVXidE=
+
+Name: icons/full/eview16/diff.png
+SHA-256-Digest: WUeGuqAv+k6Oc/NCFGXyF8Ao6hnGKXJ1wK6Hqhf3D58=
+
+Name: org/eclipse/php/phpunit/launch/PHPUnitLaunchAttributes.class
+SHA-256-Digest: fwQuIytNt0l16l+QvTToTlEkia/1uJAcrmimPv5Q4WY=
+
+Name: org/eclipse/php/phpunit/ui/view/PHPUnitView$RerunLastFailedTestA
+ ction.class
+SHA-256-Digest: cz4hXuycjLZoV5FGHwo1yro9G7dJBfiEC5Vj+45OuPA=
+
+Name: icons/full/obj16/tcaserun.png
+SHA-256-Digest: AVla8dz/cJx4pZb5Gzi2o9O4IoerTvCKMEdKieQNQNY=
+
+Name: org/eclipse/php/phpunit/ui/view/actions/OpenEditorAtLineAction.c
+ lass
+SHA-256-Digest: NB/Wf0vej3y8M3A41XROaJVeWZ2oFWgCFPRKcqCdrK8=
+
+Name: org/eclipse/php/phpunit/ui/wizards/PHPUnitFilteredTypesSelection
+ Dialog$TypeSearchPattern.class
+SHA-256-Digest: ymvtp6iYwOfHMwyIgHernPaZkhIurgnZBTET5tKcUiI=
+
+Name: icons/full/obj16/tsuite.png
+SHA-256-Digest: xyA+NMkSXRCp5XB9qZx82BTtIYplU/WpWFwqwfm3TcE=
+
+Name: org/eclipse/php/phpunit/ui/view/PHPUnitView$ExpandAllAction.clas
+ s
+SHA-256-Digest: wnTxW5up1LoJF1/YfTvU7PJt7ys5m9LnJrdDLeinAbE=
+
+Name: org/eclipse/php/phpunit/ui/launch/PHPUnitZDLaunchSettingsSection
+ .class
+SHA-256-Digest: eyuiLUJCNfxH6C+TIOo/Lfg+X7PwB4V/uNr32LAdaLo=
+
+Name: org/eclipse/php/phpunit/ui/view/PHPUnitView$StopAction.class
+SHA-256-Digest: odvW3Q1Cx3J13jFbXQY5qJ6xnrZoIxG6DYE7/yR/DyU=
+
+Name: resources/templates/ZendPHPUnitClassTest.tpl.php
+SHA-256-Digest: 0Si/cbt03MWrL3OyhTwQ6OFtrhb8sJA0WGvAHPsymyY=
+
+Name: org/eclipse/php/phpunit/ui/wizards/TestCaseWizardPage.class
+SHA-256-Digest: v/biMVXqvOtKfTZkq0cEOUYv7Y0U9GoRw5PdJUk+nKw=
+
+Name: org/eclipse/php/phpunit/ui/wizards/PHPUnitWizardPage$FileNameFie
+ ldAdapter.class
+SHA-256-Digest: FC70K2nwsg/YUdzYaXrUSMh4WWFjV9oQ6Bs8qc2/z/s=
+
+Name: org/eclipse/php/phpunit/ui/view/CounterPanel.class
+SHA-256-Digest: actEPbjIvLRXUi966Gas74D+KZKAUn4Xk3v/284Y37I=
+
+Name: org/eclipse/php/phpunit/ui/view/TestViewer.class
+SHA-256-Digest: yTu0cP1qYNtsz6REXBDaFR4zP9s/gh06HxCgfkrEuH8=
+
+Name: icons/full/dlcl16/expandall@2x.png
+SHA-256-Digest: 4xeEDkNtiK9KXtYNyNJoXWjniTfF11o5Dj8Ctq85fSE=
+
+Name: icons/full/dtool16/new_testcase@2x.png
+SHA-256-Digest: jzo2i4KgXsMW1DSy0NQxlT+ObBV/tEUjukUc3v1+l+Y=
+
+Name: icons/full/obj16/tsuitefail@2x.png
+SHA-256-Digest: sNBAkM5u6OpbAT8Fidr5xYGuiEcbkjUJ5yps/eKcuvw=
+
+Name: org/eclipse/php/phpunit/model/elements/PHPUnitTestEvent.class
+SHA-256-Digest: HaFO2DRAoH3244dgKJP6QHz9Sc9EUgXhxj+WEjOEFwc=
+
+Name: org/eclipse/php/phpunit/ui/wizards/PHPUnitFilteredTypesSelection
+ Dialog$TypeInfoUtil.class
+SHA-256-Digest: +dZTmqZAymYCgsNtmSHElpIirUiiTlqBqh0Ia231Knk=
+
+Name: icons/full/elcl16/cfilter@2x.png
+SHA-256-Digest: UMCdo9qkyf3T6C4DulfZKolNf7C/axa/2z/Pys5AnoY=
+
+Name: icons/full/ovr16/failed_ovr.png
+SHA-256-Digest: lzwPw1f2NO4fmGCS9eJShsGAap73GkUh0oe6gHqVbRM=
+
+Name: about.html
+SHA-256-Digest: ncO+WCNUIJ0JLCOl/ot53yopwTqvvtVu0qSgblesdYo=
+
+Name: org/eclipse/php/phpunit/ui/launch/PHPUnitLaunchConfigurationTab$
+ 13.class
+SHA-256-Digest: bSSb9o0iPRIXCw5pPNbdUBY2AwBembdaTqLtkJiZ3JQ=
+
+Name: org/eclipse/php/phpunit/model/connection/PHPUnitMessageParser.cl
+ ass
+SHA-256-Digest: fczJXUcFRA8Z4/OBVS2DuztMG+diTV8Twg1oLqQfdpI=
+
+Name: org/eclipse/php/phpunit/ui/launch/PHPUnitLaunchConfigurationTab$
+ 4.class
+SHA-256-Digest: UHQQ+CuBOMu6m4Ou3N1PsdEwruxpt5vG8ymbrNNcbdU=
+
+Name: icons/full/etool16/new_testcase@2x.png
+SHA-256-Digest: MkQnwVg17rTMLA2wuJOQxb1YMOspe9/XLXW8ByVKkIo=
+
+Name: icons/full/dlcl16/relaunch.png
+SHA-256-Digest: +iYce+j+xArGEgZyfoUH7LZtSGwKE7tGTCBs1P8HnBE=
+
+Name: org/eclipse/php/phpunit/ui/launch/OpenFileDialog.class
+SHA-256-Digest: fbsmzXNoMOtald34daEH8Ekg82yRgmeIIJjyknqtto4=
+
+Name: org/eclipse/php/phpunit/ui/wizards/templates/TestTemplate.class
+SHA-256-Digest: 1Tgu1nOaVKisOvtnHby8faTddC/YI5i5WgiUsJNOWFU=
+
+Name: org/eclipse/php/phpunit/model/connection/Message.class
+SHA-256-Digest: 8XKDAhtxY5zkuKUayXDArJAP3hk/iFfIK+MHPIi6sHU=
+
+Name: org/eclipse/php/phpunit/ui/launch/TestSelectionDialog$PackageRen
+ derer.class
+SHA-256-Digest: K14/FF4oq8ZvaeciY/Yo3WlsedkkENdNHA5x0RNBfw4=
+
+Name: icons/full/elcl16/select_next.png
+SHA-256-Digest: BVTXwaXH+zXjfGSNvxJ2VDSMJSFeD/f/Ca7LcYx+Erc=
+
+Name: org/eclipse/php/phpunit/ui/view/actions/EnableStackFilterAction.
+ class
+SHA-256-Digest: Clb1wQtbeNaepF9LnoCEUkLHvK63lpZrhC1bfOFGkBU=
+
+Name: icons/full/dlcl16/cfilter@2x.png
+SHA-256-Digest: 1j7ZoNOuMrDkb8OHHDOGl26UeDAwaCwdeeV8w2L8ZvA=
+
+Name: org/eclipse/php/phpunit/ui/launch/OpenFileDialog$1.class
+SHA-256-Digest: xEizST8gyjLrv7wmHmlf5XQwuPNDrMDdQ4bv+yrf9Hc=
+
+Name: icons/full/wizban/newsuite_wiz.png
+SHA-256-Digest: TdWmChO5blwz/6DKRy6tfFjVEr9Cd/jQfFg3x80KjoQ=
+
